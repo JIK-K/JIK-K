@@ -1,6 +1,6 @@
 ## 📌
 
-- 블로그 : <https://jik-k.github.io/> ✨
+- 블로그 : <https://jik-k.github.io/>
 - 이메일 : <dnswlrsla@gmail.com>
 
 ## 📌
