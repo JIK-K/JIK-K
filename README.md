@@ -27,7 +27,7 @@
   
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIK-K&theme=dracula&layout=compact"/>
   
-  ### Woon Jik
+  ### Jung Woon Jik
   
   ---
   <img src="https://img.shields.io/badge/JAVA-207897?style=flat&logo=OpenJDK&logoColor=white"/>
