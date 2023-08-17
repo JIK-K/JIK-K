@@ -34,12 +34,12 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJs&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=MYSQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariaDB&logoColor=white"/>
 
   <img align="right" width="70" src="https://user-images.githubusercontent.com/87060676/216057179-290fe966-d033-4a34-92f9-965f8d219754.gif" />
   
-  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=MYSQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariaDB&logoColor=white"/>
+  
   <a href="https://JIK-K.github.io"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Github&logoColor=white"/></a>
   <a href="https://solved.ac/kddnswlr"><img alt="solved.ac" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kddnswlr"/></a>
 
