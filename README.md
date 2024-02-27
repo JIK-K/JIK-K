@@ -32,7 +32,7 @@
   ---
   <img src="https://img.shields.io/badge/JAVA-207897?style=flat&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJs&logoColor=white"/>
   <img src="https://img.shields.io/badge/NextJS-000000?style=flat&logo=Next.Js&logoColor=white"/>
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=MYSQL&logoColor=white"/>
