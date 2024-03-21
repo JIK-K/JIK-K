@@ -39,3 +39,11 @@
   <a href="https://solved.ac/kddnswlr"><img alt="solved.ac" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kddnswlr"/></a>
 </div>
 
+## 💻Career
+| Organization | Title | Date |
+|---|:---:|---:|
+| MapleStory | Archmage Fire/Poison Lv264| 2017/06/25~2023/12/25 |
+| Getamped | Black Bortoise(Silver) | 2009/04/21~2024/03/21 |
+| SuddenAttack | Iieutenant General | 2013/11/21~2019/01/17 |
+| MineCraft | My Place Minecraft Wild Building Competition 1st Edition 🥇 | 2024/03/21~2024/03/21 |
+| Left4Dead | The last survivor in the greatest apocalypse zombie world of all time | ALLTIME |
