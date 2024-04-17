@@ -4,12 +4,15 @@
    
   ### Jung Woon Jik 
   
+  <p>$\small{\color{#C5E1A5}If\ I\ am\ not\ for\ myself\, who\ will\ be\ for\ me}$</p>
+
   <img  width="70" src="https://user-images.githubusercontent.com/87060676/216057179-290fe966-d033-4a34-92f9-965f8d219754.gif" />
   
   ***
   
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JIK-K&theme=github_dark"/>
-  
+
+ 
   </div>
   
    
