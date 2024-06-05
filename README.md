@@ -43,6 +43,7 @@
 </div>
 
 
+<!--
 ***
 ## 🎈Activity
 | Organization | Title | Date |
@@ -58,3 +59,4 @@
 | Organization | Title | Date |
 |---|:---:|---:|
 | DREAM | LOVE | JUSTICE |
+>
