@@ -28,7 +28,6 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=C&logoColor=white"/>
-  <img src="https://img.shields.io/badge/dart-0175C2?style=flat&logo=Dart&logoColor=white"/>
   
   
   📙Frameworks & Libraries<br/>
