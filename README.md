@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
   
   📘Blog & Algorithm<br/>
-  <a href="https://wooniverse.kr"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=bookstack&logoColor=white"/></a>
+  <a href="https://dnswlrsla.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=bookstack&logoColor=white"/></a>
   <a href="https://solved.ac/kddnswlr"><img alt="solved.ac" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kddnswlr"/></a>
 </div>
 
