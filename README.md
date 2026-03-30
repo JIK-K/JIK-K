@@ -24,12 +24,12 @@
   ## 📚SKILL
   
   📕Programming Languages<br/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C++-blue?logo=cplusplus"/>
   <img src="https://img.shields.io/badge/JAVA-207897?style=flat&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=C&logoColor=white"/>
-  
-  
+
   📙Frameworks & Libraries<br/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJs&logoColor=white"/>
   <img src="https://img.shields.io/badge/NextJS-000000?style=flat&logo=Next.Js&logoColor=white"/>
